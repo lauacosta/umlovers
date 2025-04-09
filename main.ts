@@ -1,5 +1,5 @@
 function greet(msg: string) {
-    return `Hola, ${msg}, como estas??`
+    return `Chau`
 }
 
 function main() {
