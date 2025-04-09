@@ -1,3 +1,3 @@
 function greet(msg: string) {
-    return `${msg}`
+    return `${msg}, como estas?`
 }
