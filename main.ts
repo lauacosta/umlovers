@@ -3,7 +3,7 @@ function greet(msg: string) {
 }
 
 function main() {
-    let name = "Benja"
+    let name = "Flor"
     console.log(greet(name))
 }
 
