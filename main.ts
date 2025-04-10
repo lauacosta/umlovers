@@ -1,9 +1,9 @@
 function greet(msg: string) {
-    return `Enhorabuena! ${msg}`
+    return `Hola! ${msg}`
 }
 
 function main() {
-    let name = "Benja" + "UMLover"
+    let name = "Benja"
     console.log(greet(name))
 }
 
