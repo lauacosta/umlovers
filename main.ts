@@ -3,7 +3,11 @@ function greet(msg: string) {
 }
 
 function main() {
+<<<<<<< HEAD
     let name = "Buenas"
+=======
+    let name = "UMLover"
+>>>>>>> feature2
     console.log(greet(name))
 }
 
