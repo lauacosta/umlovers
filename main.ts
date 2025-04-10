@@ -1,13 +1,9 @@
 function greet(msg: string) {
-    return `Enhorabuena! ${msg}`
+    return `Hola! ${msg}`
 }
 
 function main() {
-<<<<<<< HEAD
-    let name = "Buenas"
-=======
-    let name = "UMLover"
->>>>>>> feature2
+    let name = "Benja"
     console.log(greet(name))
 }
 
